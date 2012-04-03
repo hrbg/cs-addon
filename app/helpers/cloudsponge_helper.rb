@@ -1,0 +1,2 @@
+module CloudspongeHelper
+end
