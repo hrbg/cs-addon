@@ -1,7 +1,7 @@
 {
-  "id": "myaddon",
+  "id": "cloudsponge",
   "api": {
-    "config_vars": [ "MYADDON_URL" ],
+    "config_vars": [ "CLOUDSPONGE_DOMAIN_KEY", "CLOUDSPONGE_DOMAIN_PASSWORD" ],
     "password": "gOn4cKm6P4ODUGSE",
     "sso_salt": "OTZ60Z91fpssNZBt",
     "production": {
